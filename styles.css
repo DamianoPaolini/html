@@ -1,0 +1,113 @@
+.body {
+    font-family: 'Arial', sans-serif;
+    background-color: #ffffff;
+    color: #333;
+    margin: 20px;
+}
+
+#encabezado {
+    border: 2px solid rgb(11, 29, 184);
+    background-color: rgb(7, 97, 127);
+    width: 60vw;
+    margin: auto;
+    padding: 2em;
+}
+
+#header {
+    background-color: red;
+}
+
+#principal {
+    font-size: 3.2em;
+    color: rgb(255, 255, 255);
+    
+}
+
+li {
+    font-size: 1.2em;
+    color: rgb(5, 146, 24);
+}
+
+#cards-container {
+    background-color: aquamarine;
+    width: 85%;
+    margin: auto;
+    border: 2px solid black;
+    border-radius: 25px;
+    padding: 2em;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+    
+}
+
+.cards {
+    border: 2px solid black;
+    background-color: rgb(21, 141, 21);
+    border-radius: 25px;
+    padding: 1em;
+    display: flex;
+    flex-direction: column;
+    gap: 0.6em;
+    
+}
+
+p {
+    color: rgb(25, 0, 255);
+}
+
+.contacto {
+    color: rgb(8, 206, 220);
+}
+
+.imagenes {
+    width: 400px;
+}
+
+.imagen {
+    width: 400px;
+    height: 400px;
+}
+
+.txtimg {
+    color: rgb(255, 255, 255);
+    font-size: 75px;
+}
+
+#divimgs {
+    background-color: violet;
+}
+
+.h2t {
+    color: rgb(165, 4, 4);
+    font-size: 2em;
+}
+
+.nose {
+    background-color: brown;
+    margin-bottom: 2em;    
+}
+
+.divp1 {
+    background-color: aquamarine;
+    width: 55%;
+    margin: auto;
+    border: 2px solid black;
+    border-radius: 25px;
+    padding: 2em;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.tx1 {
+    border: 2px solid rgb(127, 0, 186);
+    background-color: rgb(254, 254, 254);
+    border-radius: 25px;
+    padding: 1em;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    margin: 2em;  
+}
